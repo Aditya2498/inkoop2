@@ -1,0 +1,8 @@
+.bannerstyle {
+  padding: 3rem;
+
+  color: rgb(65, 128, 223);
+  text-align: center;
+  min-height: 10vh;
+  background-color: rgb(32, 84, 133);
+}

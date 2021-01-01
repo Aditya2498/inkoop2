@@ -1,0 +1,18 @@
+.font{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+}
+.border{
+    box-sizing: border-box;
+    padding-top: 2rem;
+}
+.button{
+    background-color: #0f315e;
+    color:rgb(78, 22, 22);
+    border-radius: 0.5rem;
+    height: 4rem;
+    width:15rem;
+}
+.button-font{
+   color:wheat;
+}
